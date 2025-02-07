@@ -27,7 +27,7 @@
 # from aiogram.types import Message
 # from aiogram.filters import Command
 #
-# TOKEN = "7741398834:AAHOhzzcOmH5ZvF-n0vW7MEb8PoJ4FB0SUk"
+# TOKEN = "TOKEN"
 #
 # bot = Bot(token=TOKEN)
 # dp = Dispatcher()
@@ -66,7 +66,7 @@
 # from aiogram.types import Message
 # from aiogram.filters import Command
 #
-# TOKEN = "7741398834:AAHOhzzcOmH5ZvF-n0vW7MEb8PoJ4FB0SUk"
+# TOKEN = "TOKEN"
 #
 # bot = Bot(token=TOKEN)
 # dp = Dispatcher()

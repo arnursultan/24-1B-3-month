@@ -8,7 +8,7 @@ from aiogram.fsm.state import StatesGroup, State
 from apscheduler.schedulers.asyncio import AsyncIOScheduler
 
 
-TOKEN = '7741398834:AAHOhzzcOmH5ZvF-n0vW7MEb8PoJ4FB0SUk'
+TOKEN = "TOKEN"
 
 
 # Определяем состояния для машины состояний (FSM) для ввода напоминания
